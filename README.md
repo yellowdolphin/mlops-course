@@ -1,1 +1,3 @@
 # mlops-course
+
+Just checking out this course...
